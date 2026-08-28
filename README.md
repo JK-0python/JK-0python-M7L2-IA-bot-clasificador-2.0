@@ -7,5 +7,6 @@
 # -----------------------------------
 # LICENSE:
 # Puedes usar este bot para todo lo que quieras, y lo puedes editar.
+# -----------------------------------
 # Hecho por: JK
 # Si tienes preguntas has un dm a piolacat13 en discord
