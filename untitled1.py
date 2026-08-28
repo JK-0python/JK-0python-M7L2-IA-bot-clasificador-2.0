@@ -81,4 +81,4 @@ async def check(ctx):
   else:
     await ctx.send("No has enviado ninguna imagen")
 
-bot.run("MTQ4NDMzNDg1OTM3NDgyNTUyMg.Gcd9bs.ZPXypXK6s775Sc7PlKQDvNIp9uShljcQ3EUVaw")
+bot.run("TOKEN")
